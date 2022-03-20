@@ -1,10 +1,1 @@
-<svg id="svgElement" width="320" height="500" xmlns="http://www.w3.org/2000/svg">
-    <rect x="20" y="0" width="100" height="100" fill="black" stroke="black" fill-opacity="0.3" stroke-opacity="0.9"
-          stroke-width="10"></rect>
-    <rect x="20" y="120" width="100" height="100" fill="black" stroke="black" fill-opacity="0.9" stroke-opacity="0.2"
-          stroke-width="10"></rect>
-    <rect x="20" y="240" width="100" height="100" fill="black" stroke="black" fill-opacity="0.9"
-          stroke-width="10"></rect>
-    <rect x="20" y="360" width="100" height="100" fill="black" stroke="black" stroke-opacity="0.2"
-          stroke-width="10"></rect>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svgElement" width="320" height="500"><rect width="100" height="100" x="20" y="0" fill="#000" fill-opacity=".3" stroke="#000" stroke-opacity=".9" stroke-width="10"/><rect width="100" height="100" x="20" y="120" fill="#000" fill-opacity=".9" stroke="#000" stroke-opacity=".2" stroke-width="10"/><rect width="100" height="100" x="20" y="240" fill="#000" fill-opacity=".9" stroke="#000" stroke-width="10"/><rect width="100" height="100" x="20" y="360" fill="#000" stroke="#000" stroke-opacity=".2" stroke-width="10"/></svg>
